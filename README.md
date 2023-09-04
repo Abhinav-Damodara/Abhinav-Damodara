@@ -1,3 +1,5 @@
+![logo](https://github.com/AbhinavGitam/AbhinavGitam/blob/main/welcome%20to%20my%20page.png)
+
 <h1 align="center">Hi 👋, I'm Abhinav Damodara</h1>
 <h3 align="center">A passionate Student in Computer Science from Gitam University, India</h3>
 
