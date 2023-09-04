@@ -1,8 +1,15 @@
-![logo](https://github.com/AbhinavGitam/AbhinavGitam/blob/main/welcome%20to%20my%20page.png)
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+
+<img src="https://github.com/AbhinavGitam/AbhinavGitam/blob/main/welcome%20to%20my%20page.png" style="width: 100%;" alt="logo">
 
 <h1 align="center">Hi 👋, I'm Abhinav Damodara</h1>
 <h3 align="center">A passionate Student in Computer Science from Gitam University, India</h3>
-
 <img align="right" alt="coding" width="400" src="images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <a href="https://twitter.com/abhinavdamodara" target="blank"><img src="https://img.shields.io/twitter/follow/abhinavdamodara?logo=twitter&style=for-the-badge" alt="abhinavdamodara" /></a> </p>
@@ -39,3 +46,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhinavgitam&show_icons=true&locale=en" alt="abhinavgitam" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhinavgitam&" alt="abhinavgitam" /></p>
+</body>
+</html>
