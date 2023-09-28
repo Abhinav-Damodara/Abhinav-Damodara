@@ -44,6 +44,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhinavgitam&show_icons=true&locale=en&layout=compact" alt="abhinavgitam" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhinavgitam&show_icons=true&locale=en" alt="abhinavgitam" /></p>
-
 </body>
 </html>
