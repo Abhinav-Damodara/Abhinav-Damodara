@@ -18,7 +18,7 @@
 
 - 💬 Ask me about **Python, Flutter, Firebase, SQL, HTML and CSS, Java-script**
 
-- 📫 How to reach me **abhinavdamodara41@gmail.com**
+- 📫 Reach me at **abhinavdamodara41@gmail.com**
 
 - ⚡ Fun fact **💥🚀 In a world of 0s and 1s, I'm the one who makes it all work. 🌟 Let's talk algorithms, data structures, and pizza preferences! 🍕🧠"**
 
