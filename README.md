@@ -14,13 +14,13 @@
 
 <p align="left"> <a href="https://twitter.com/abhinavdamodara" target="blank"><img src="https://img.shields.io/twitter/follow/abhinavdamodara?logo=twitter&style=for-the-badge" alt="abhinavdamodara" /></a> </p>
 
-- 🌱 I’m currently learning **App-Development, Full Stack, AI.**
+- 🌱 I’m currently learning **App-Development, Data Analysis, Machine Learning.**
 
-- 💬 Ask me about **Python, Flutter, Firebase, SQL, HTML and CSS, Java-script**
+- 💬 Ask me about **Python, Flutter, Firebase, HTML and CSS**
 
 - 📫 Reach me at **abhinavdamodara41@gmail.com**
 
-- ⚡ Fun fact **💥🚀 In a world of 0s and 1s, I'm the one who makes it all work. 🌟 Let's talk algorithms, data structures, and pizza preferences! 🍕🧠"**
+- ⚡ Fun fact **💥🚀 In a world of 0s and 1s, I'm the one who makes it all work. 🌟 Let's talk algorithms, apps, and pizza preferences! 🍕🧠"**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
